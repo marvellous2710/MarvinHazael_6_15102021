@@ -1,3 +1,4 @@
+//schéma sauce pour tout objet mis en vente dans notre application.
 const mongoose = require('mongoose');
 
 const sauceSchema = mongoose.Schema({
