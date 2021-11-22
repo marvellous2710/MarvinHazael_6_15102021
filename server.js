@@ -20,11 +20,6 @@ const port = normalizePort(process.env.PORT || '3000');
 app.set('port', port);
 
 
-// //cela nous permet de créer un server =>
-// const server = http.createServer(app);
-// //ce server doit écouter les requetes envoyé
-// server.listen(process.env.PORT || 5000);//3000numéro qu'il doit écouter /process.env.PORT va choisir un port SINON "||" port 3000
-
 const errorHandler = error => {
     if (error.syscall !== 'listen') {
       throw error;
