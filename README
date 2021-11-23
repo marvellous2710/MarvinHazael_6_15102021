@@ -1,7 +1,7 @@
+API PIIQUANTE HOT TAKES
 
 
-
-RONTEND :
+FRONTEND :
 
 1- Installer NodeJS et Angular
 
@@ -15,11 +15,11 @@ BACKEND :
 
 1- Cloner ce git : https://github.com/marvellous2710/MarvinHazael_6_15102021.git
 
-2- Créer un fichier " .env " pour y renseigner votre connection Mongodb ainsi que le Token de validation comme dans le " .env.dist "
+2- Créer un fichier " .env " pour y renseigner votre connection Mongodb ainsi que le Token de validation comme dans " .env.dist "
 
 3- Céer un dossier " images "
 
-4- Installer les modules suivant : express, mongoose, mongoose-unique-validator, jsonwebtoken, dotenv, bcrypt, multer, nodemon
+4- Installer dans le dossier backend les modules suivant : express, mongoose, mongoose-unique-validator, jsonwebtoken, dotenv, bcrypt, multer, nodemon
 
-5- Démarrer nodemon serve sur un autre terminal
+5- Démarrer nodemon serve depuis le dossier backend sur un autre terminal
 
