@@ -1,0 +1,25 @@
+
+
+
+RONTEND :
+
+1- Installer NodeJS et Angular
+
+2- Cloner le frontend ici : https://github.com/OpenClassrooms-Student-Center/Web-Developer-P6.git
+
+3- Pour lancer le frontend : " npm install --save-dev run-script-os " puis npm start pour lancer le frontend
+
+
+
+BACKEND :
+
+1- Cloner ce git : https://github.com/marvellous2710/MarvinHazael_6_15102021.git
+
+2- Créer un fichier " .env " pour y renseigner votre connection Mongodb ainsi que le Token de validation comme dans le " .env.dist "
+
+3- Céer un dossier " images "
+
+4- Installer les modules suivant : express, mongoose, mongoose-unique-validator, jsonwebtoken, dotenv, bcrypt, multer, nodemon
+
+5- Démarrer nodemon serve sur un autre terminal
+
